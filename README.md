@@ -23,3 +23,7 @@ java.lang.IllegalArgumentException: URLDecoder: Illegal hex characters in escape
 ```
 
 Note that the same exception is thrown with Tomcat7. 
+
+JSP include can also be tested :
+
+http://localhost:8080/sts899/include.jsp
